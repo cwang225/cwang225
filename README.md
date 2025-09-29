@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D7A0F7&center=true&width=435&lines=%E2%98%86+Hi!+My+name+is+Carly+Wang+%E2%98%86;%E2%98%86+I+unite+code%2C+HCI%2C+and+data+%E2%98%86)](https://git.io/typing-svg)
+
 <!--
 **cwang225/cwang225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
