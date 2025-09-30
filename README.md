@@ -62,8 +62,7 @@ I am software engineer and user interaction researcher & designer currently stud
 <h3 align="center">Read more!
     <br></br>
     <a href="https://docs.google.com/document/d/1Fyy525k9uURwNPyyY4XaxK-3CgR5AuGvtX-orC27OyA/edit?usp=sharing">
-        <img width="214" height="53" alt="wseinterlock" src="https://github.com/user-attachments/assets/48208d09-a422-4bae-8d9b-85ce440ddbf9" />
-
+        <img width="198" height="53" alt="wseinterlock" src="https://github.com/user-attachments/assets/e8c8cf54-85b4-4dca-a4f1-1353a972bfbc" />
     </a>
 </h3>
 
