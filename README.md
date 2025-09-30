@@ -56,8 +56,11 @@ I am software engineer and user interaction researcher & designer currently stud
     </a>
 </h3>
 
-
-
-☆ Pomotask: Throwing tomatoes at low student productivity
-
-☆ Focus Friends: Focusing is everyone's best friend
+☆ **WSEInterlock:** Throwing tomatoes at low student productivity
+☆ **Focus Friends:** Focusing is everyone's best friend
+<h3 align="center">Read more!
+    <br></br>
+    <a href="https://docs.google.com/document/d/1bEo_KwYW2FbUql520TsC4YNqkQC7uFolxM2OGrwlAPI/edit?usp=sharing">
+        <img width="175" height="111" alt="picture of a cute dog that links to case study" src="https://github.com/user-attachments/assets/eb99a018-dbf6-43b9-bf43-45d6b1717a4e" />
+    </a>
+</h3>
