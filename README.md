@@ -78,10 +78,13 @@ I am software engineer and user interaction researcher & designer currently stud
 
 ---
 
+
 ## Further UI & Creative Endeavors
-☆ <a href="https://drive.google.com/drive/folders/1Kwx-qnI5jogujiXYi0VGmreggUEEjXxC?usp=sharing">
-    ![9s2bgif](https://github.com/user-attachments/assets/54c4d851-0f60-4c5b-8041-a18076d77640)
+<h1 align="center"> More of my work
+    <a href="https://drive.google.com/drive/folders/1Kwx-qnI5jogujiXYi0VGmreggUEEjXxC?usp=sharing">
+    ![9s2bgifbigger](https://github.com/user-attachments/assets/b9da6a62-8b76-4526-9354-97e04a6b676b)
     </a>
+</h1>
 
 ---
 ## Technical / Software Projects
