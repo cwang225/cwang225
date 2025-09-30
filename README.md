@@ -12,7 +12,7 @@
 
 ---
 
-## Who I am
+## ☆ Who I am
 I am software engineer and user interaction researcher & designer currently studying at Johns Hopkins University majoring in Computer Science and Economics. I love working with computer science and the minds that use it.
 
 - Current Course Assistant for Introduction to Human Computer Interaction
@@ -22,19 +22,17 @@ I am software engineer and user interaction researcher & designer currently stud
 
 ---
 
-## What I use
+## ☆ What I use
 
 **Languages:**
-<br></br>
-☆ Java, Javascript, HTML, Python, CSS, C++, C, C#, R
+- Java, Javascript, HTML, Python, CSS, C++, C, C#, R
 
 **Tools:**
-<br></br>
-☆ Figma, Jira, Stata, Unity, Postman, Supabase, NumPy, Pandas, Sklearn, Microsoft Suite, LibCal
+- Figma, Jira, Stata, Unity, Postman, Supabase, NumPy, Pandas, Sklearn, Microsoft Suite, LibCal
 
 ---
 
-## How I work
+## ☆ How I work
 
 ☆ Agile methodology, Scrum, Contextual Inquiries, Usability Test, Capability Design, Participatory Design, User Interviews, MERN
 
@@ -42,8 +40,16 @@ I am software engineer and user interaction researcher & designer currently stud
 
 ---
 
-## GitHub Stats
+## ☆ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwang225&layout=compact&hide=html,css,makefile&theme=default" alt="Top Langs">
 </p>
+
+## ☆ Case Studies
+
+☆ Nutrileap: Gamifying the nutrition tracking process, encouraging users to leap into nutrition
+
+☆ Pomotask: Throwing tomatoes at low student productivity
+
+☆ Focus Friends: Focusing is everyone's best friend
