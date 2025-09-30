@@ -83,7 +83,7 @@ I am software engineer and user interaction researcher & designer currently stud
 <h1 align="center">
 <a href="https://drive.google.com/drive/folders/1Kwx-qnI5jogujiXYi0VGmreggUEEjXxC?usp=sharing">
 
-<img src=![9s2bgifbigger](https://github.com/user-attachments/assets/ce676154-1938-44ef-958d-a8fafc3ccfdd)/>
+![9s2bgifbigger](https://github.com/user-attachments/assets/ce676154-1938-44ef-958d-a8fafc3ccfdd)
 </a>
 </h1>
 
