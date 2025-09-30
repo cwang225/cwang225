@@ -34,9 +34,9 @@ I am software engineer and user interaction researcher & designer currently stud
 
 ## ☆ How I work
 
-☆ Agile methodology, Scrum, Contextual Inquiries, Usability Test, Capability Design, Participatory Design, User Interviews, MERN
+- Agile methodology, Scrum, Contextual Inquiries, Usability Test, Capability Design, Participatory Design, User Interviews, MERN
 
-☆ Always open towards collaborating with a team; connections help build up dream, ideas, and goals 
+- Always open towards collaborating with a team; connections help build up dream, ideas, and goals 
 
 ---
 
@@ -49,6 +49,8 @@ I am software engineer and user interaction researcher & designer currently stud
 ## ☆ Case Studies
 
 ☆ Nutrileap: Gamifying the nutrition tracking process, encouraging users to leap into nutrition
+<a href="https://docs.google.com/document/d/1p57ODPUnyItmUdHZ01gy2ziTxxvCmmPV1R00vNlUVc4/edit?usp=sharing">
+    <img src="https://pasteboard.co/C59ullAL3Crl.png" alt text="cute frog that links to case study document"/>
 
 ☆ Pomotask: Throwing tomatoes at low student productivity
 
