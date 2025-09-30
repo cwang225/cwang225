@@ -62,7 +62,8 @@ I am software engineer and user interaction researcher & designer currently stud
 <h3 align="center">Read more!
     <br></br>
     <a href="https://docs.google.com/document/d/1Fyy525k9uURwNPyyY4XaxK-3CgR5AuGvtX-orC27OyA/edit?usp=sharing">
-        <img width="115" height="161" alt="FFdog" src="https://github.com/user-attachments/assets/e91f82dc-a3e1-421a-8d1f-facecd6ce317"/>
+        <img width="214" height="53" alt="wseinterlock" src="https://github.com/user-attachments/assets/48208d09-a422-4bae-8d9b-85ce440ddbf9" />
+
     </a>
 </h3>
 
