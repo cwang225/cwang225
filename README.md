@@ -48,8 +48,7 @@ I am software engineer and user interaction researcher & designer currently stud
 
 ## ☆ Case Studies
 
-☆ Nutrileap: Gamifying the nutrition tracking process, encouraging users to leap into nutrition
-<br></br>
+☆ **Nutrileap:** Gamifying the nutrition tracking process, encouraging users to leap into nutrition
 <h3 align="center">Read more!
     <br></br>
     <a href="https://docs.google.com/document/d/1p57ODPUnyItmUdHZ01gy2ziTxxvCmmPV1R00vNlUVc4/edit?usp=sharing">
