@@ -81,7 +81,7 @@ I am software engineer and user interaction researcher & designer currently stud
 
 ## Further UI & Creative Endeavors
 <h1 align="center">
-<a style="color: inherit; text-decoration: underline"href="https://drive.google.com/drive/folders/1Kwx-qnI5jogujiXYi0VGmreggUEEjXxC?usp=sharing"> ☆ Click here for more ☆ </a>
+<a style="color: white; text-decoration: underline"href="https://drive.google.com/drive/folders/1Kwx-qnI5jogujiXYi0VGmreggUEEjXxC?usp=sharing"> ☆ Click here for more ☆ </a>
 
 ![9s2bgifbigger](https://github.com/user-attachments/assets/ce676154-1938-44ef-958d-a8fafc3ccfdd)
 
