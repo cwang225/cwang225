@@ -50,7 +50,7 @@ I am software engineer and user interaction researcher & designer currently stud
 
 ☆ Nutrileap: Gamifying the nutrition tracking process, encouraging users to leap into nutrition
 <a href="https://docs.google.com/document/d/1p57ODPUnyItmUdHZ01gy2ziTxxvCmmPV1R00vNlUVc4/edit?usp=sharing">
-   <img width="425" height="600" alt="nutrileapFrog" src="https://github.com/user-attachments/assets/e88bd940-c378-4683-91d6-cf520e6e8112" /> 
+    <img width="525" height="332" alt="smallNutrileapFrog" src="https://github.com/user-attachments/assets/3cbabcd4-a58b-46f5-87d8-fb6f77a0c4b4" />
 </a>
 
 
