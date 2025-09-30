@@ -12,7 +12,7 @@
 
 ---
 
-# Who I am
+## Who I am
 I am software engineer and user interaction researcher & designer currently studying at Johns Hopkins University majoring in Computer Science and Economics. I love working with computer science and the minds that use it.
 
 - Current Course Assistant for Introduction to Human Computer Interaction
@@ -22,17 +22,19 @@ I am software engineer and user interaction researcher & designer currently stud
 
 ---
 
-# What I use
+## What I use
 
 **Languages**
+<br></br>
 ☆ Java, Javascript, HTML, Python, CSS, C++, C, C#, R
 
 **Tools**
+<br></br>
 ☆ Figma, Jira, Stata, Unity, Postman, Supabase, NumPy, Pandas, Sklearn, Microsoft Suite, LibCal
 
 ---
 
-# How I work
+## How I work
 
 ☆ Agile methodology, Scrum, Contextual Inquiries, Usability Test, Capability Design, Participatory Design, User Interviews, MERN
 
