@@ -61,6 +61,7 @@ I am software engineer and user interaction researcher & designer currently stud
 <h3 align="center">Read more!
     <br></br>
     <a href="https://docs.google.com/document/d/1bEo_KwYW2FbUql520TsC4YNqkQC7uFolxM2OGrwlAPI/edit?usp=sharing">
-        <img width="175" height="111" alt="picture of a cute dog that links to case study" src="https://github.com/user-attachments/assets/eb99a018-dbf6-43b9-bf43-45d6b1717a4e" />
+        <img width="115" height="161" alt="FFdog" src="https://github.com/user-attachments/assets/e91f82dc-a3e1-421a-8d1f-facecd6ce317" />
     </a>
 </h3>
+
