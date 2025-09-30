@@ -39,3 +39,11 @@ I am software engineer and user interaction researcher & designer currently stud
 ☆ Agile methodology, Scrum, Contextual Inquiries, Usability Test, Capability Design, Participatory Design, User Interviews, MERN
 
 ☆ Always open towards collaborating with a team; connections help build up dream, ideas, and goals 
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwang225&layout=compact&hide=html,css,makefile&theme=default" alt="Top Langs">
+</p>
