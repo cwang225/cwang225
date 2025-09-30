@@ -80,7 +80,7 @@ I am software engineer and user interaction researcher & designer currently stud
 
 
 ## Further UI & Creative Endeavors
-<h1 align="center"> More of my work 
+<h1 align="center">
 <a href="https://drive.google.com/drive/folders/1Kwx-qnI5jogujiXYi0VGmreggUEEjXxC?usp=sharing">
 
 ![9s2bgifbigger](https://github.com/user-attachments/assets/ce676154-1938-44ef-958d-a8fafc3ccfdd)
