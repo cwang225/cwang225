@@ -24,11 +24,11 @@ I am software engineer and user interaction researcher & designer currently stud
 
 ## What I use
 
-**Languages**
+**Languages:**
 <br></br>
 ☆ Java, Javascript, HTML, Python, CSS, C++, C, C#, R
 
-**Tools**
+**Tools:**
 <br></br>
 ☆ Figma, Jira, Stata, Unity, Postman, Supabase, NumPy, Pandas, Sklearn, Microsoft Suite, LibCal
 
