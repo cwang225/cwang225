@@ -56,12 +56,23 @@ I am software engineer and user interaction researcher & designer currently stud
     </a>
 </h3>
 
-☆ **WSEInterlock:** Throwing tomatoes at low student productivity
+<br></br>
+
+☆ **WSEInterlock:** Managing metalworking machines 
+<h3 align="center">Read more!
+    <br></br>
+    <a href="https://docs.google.com/document/d/1Fyy525k9uURwNPyyY4XaxK-3CgR5AuGvtX-orC27OyA/edit?usp=sharing">
+        <img width="115" height="161" alt="FFdog" src="https://github.com/user-attachments/assets/e91f82dc-a3e1-421a-8d1f-facecd6ce317"/>
+    </a>
+</h3>
+
+<br></br>
+
 ☆ **Focus Friends:** Focusing is everyone's best friend
 <h3 align="center">Read more!
     <br></br>
     <a href="https://docs.google.com/document/d/1bEo_KwYW2FbUql520TsC4YNqkQC7uFolxM2OGrwlAPI/edit?usp=sharing">
-        <img width="115" height="161" alt="FFdog" src="https://github.com/user-attachments/assets/e91f82dc-a3e1-421a-8d1f-facecd6ce317" />
+        <img width="115" height="161" alt="FFdog" src="https://github.com/user-attachments/assets/e91f82dc-a3e1-421a-8d1f-facecd6ce317"/>
     </a>
 </h3>
 
