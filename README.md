@@ -36,7 +36,7 @@ I am software engineer and user interaction researcher & designer currently stud
 
 - Agile methodology, Scrum, Contextual Inquiries, Usability Test, Capability Design, Participatory Design, User Interviews, MERN
 
-- Always open towards collaborating with a team; connections help build up dream, ideas, and goals 
+- Always open towards collaborating with a team; connections help build up dream, ideas, and goals!
 
 ---
 
@@ -76,3 +76,11 @@ I am software engineer and user interaction researcher & designer currently stud
     </a>
 </h3>
 
+---
+
+## Further UI & Creative Endeavors
+☆ <a href="https://drive.google.com/drive/folders/1Kwx-qnI5jogujiXYi0VGmreggUEEjXxC?usp=sharing">
+    </a>
+
+---
+## Technical / Software Projects
