@@ -50,10 +50,12 @@ I am software engineer and user interaction researcher & designer currently stud
 
 ☆ Nutrileap: Gamifying the nutrition tracking process, encouraging users to leap into nutrition
 <br></br>
-<h3 align="center">Read more!</h3>
-<a align="center" href="https://docs.google.com/document/d/1p57ODPUnyItmUdHZ01gy2ziTxxvCmmPV1R00vNlUVc4/edit?usp=sharing">
-    <img width="175" height="111" alt="picture of a cute frog that links to case study" src="https://github.com/user-attachments/assets/eb99a018-dbf6-43b9-bf43-45d6b1717a4e" />
-</a>
+<h3 align="center">Read more!
+    <a href="https://docs.google.com/document/d/1p57ODPUnyItmUdHZ01gy2ziTxxvCmmPV1R00vNlUVc4/edit?usp=sharing">
+        <img width="175" height="111" alt="picture of a cute frog that links to case study" src="https://github.com/user-attachments/assets/eb99a018-dbf6-43b9-bf43-45d6b1717a4e" />
+    </a>
+</h3>
+
 
 
 ☆ Pomotask: Throwing tomatoes at low student productivity
