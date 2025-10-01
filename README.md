@@ -13,7 +13,7 @@
 ---
 
 ## ☆ Who I am
-I am software engineer and user interaction researcher & designer currently studying at Johns Hopkins University majoring in Computer Science and Economics. I love working with computer science and the minds that use it.
+I am user interaction researcher & designer and software engineer currently studying at Johns Hopkins University majoring in Computer Science and Economics. I love working with computer science and the minds that use it.
 
 - Current Course Assistant for Introduction to Human Computer Interaction
 - Co-President of JHUXplore, the only UIUX & HCI club on campus
