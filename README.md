@@ -36,7 +36,7 @@ I am user interaction researcher & designer and software engineer currently stud
 
 - Agile methodology, Scrum, Contextual Inquiries, Usability Test, Capability Design, Participatory Design, User Interviews, MERN
 
-- Always open towards collaborating with a team; connections help build up dream, ideas, and goals!
+- Always open towards collaborating with a team; connections help build up dreams, ideas, and goals!
 
 ---
 
@@ -45,6 +45,9 @@ I am user interaction researcher & designer and software engineer currently stud
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwang225&layout=compact&hide=html,css,makefile&theme=default" alt="Top Langs">
 </p>
+
+## ☆ UI Design
+- **Nutrileap**: <a href="https://www.figma.com/design/eal3zdlUPaT4UAFBEfeOsO/Nutrileap-Prototyping-Process?node-id=182-110&t=zJcwOAAv0ETmwfmJ-1">Figma</a>
 
 ## ☆ Case Studies
 
@@ -58,7 +61,7 @@ I am user interaction researcher & designer and software engineer currently stud
 
 <br></br>
 
-☆ **WSEInterlock:** Managing metalworking machines 
+☆ **WSEInterlock:** Managing metalworking machines
 <h3 align="center">Read more!
     <br></br>
     <a href="https://docs.google.com/document/d/1Fyy525k9uURwNPyyY4XaxK-3CgR5AuGvtX-orC27OyA/edit?usp=sharing">
